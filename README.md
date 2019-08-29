@@ -90,6 +90,6 @@ The funded project ImAc implemented an accessible player for 360 video content. 
 * [WebXR Device API](https://immersive-web.github.io/webxr/)
 
 ### Acknowledgements
-* Authors: @peterthopesch, @tairt
+* Authors: [@peterthopesch](https://github.com/peterthopesch), [@tairt](https://github.com/tairt)
 * Thank’s for support to partners of the ImAc project (www.imac-project.eu)
 * Mario Montagaud, i2cat
